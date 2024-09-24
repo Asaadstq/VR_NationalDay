@@ -4,7 +4,10 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/NEWRIYADH.unity
+    guid: e38c13451a7c3b54284323a6081f21f0
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e2ca166eeeb00b94cb37dfc19f94b1b7, type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e701cefba10b81f4187daa0ec6702ba6, type: 2}
